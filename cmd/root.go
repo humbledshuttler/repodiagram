@@ -5,9 +5,9 @@ import (
 	"os"
 
 	"github.com/fatih/color"
-	"github.com/humbleshuttler/repodiagram/internal/generator"
-	"github.com/humbleshuttler/repodiagram/internal/output"
-	"github.com/humbleshuttler/repodiagram/internal/scanner"
+	"github.com/humbledshuttler/repodiagram/internal/generator"
+	"github.com/humbledshuttler/repodiagram/internal/output"
+	"github.com/humbledshuttler/repodiagram/internal/scanner"
 	"github.com/spf13/cobra"
 )
 

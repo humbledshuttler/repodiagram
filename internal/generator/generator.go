@@ -9,14 +9,14 @@ import (
 	"strings"
 
 	"github.com/fatih/color"
-	"github.com/humbleshuttler/repodiagram/internal/prompts"
+	"github.com/humbledshuttler/repodiagram/internal/prompts"
 	openai "github.com/sashabaranov/go-openai"
 )
 
 type Result struct {
-	Diagram   string
+	Diagram     string
 	Explanation string
-	Mapping   string
+	Mapping     string
 }
 
 type Generator struct {

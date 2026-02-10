@@ -1,6 +1,6 @@
 package main
 
-import "github.com/humbleshuttler/repodiagram/cmd"
+import "github.com/humbledshuttler/repodiagram/cmd"
 
 func main() {
 	cmd.Execute()

@@ -20,13 +20,13 @@ RepoDiagram solves these by running entirely locally. Point it at any directory 
 ### From Source
 
 ```bash
-go install github.com/humbleshuttler/repodiagram@latest
+go install github.com/humbledshuttler/repodiagram@latest
 ```
 
 ### Build Locally
 
 ```bash
-git clone https://github.com/humbleshuttler/repodiagram.git
+git clone https://github.com/humbledshuttler/repodiagram.git
 cd repodiagram
 make build
 ```
